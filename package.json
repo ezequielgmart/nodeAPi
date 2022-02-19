@@ -1,0 +1,18 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "<h1>NodeJs example api</h1>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
