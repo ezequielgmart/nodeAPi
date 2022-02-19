@@ -1,10 +1,10 @@
 <h2>Introduction</h2>
 
-<h5>Copyright</h5>
+<h3>Copyright</h3>
 <p>The all references of this project are in this YOUTUBE Free COURSE https://www.youtube.com/watch?v=p8CoR-wymQg</p>
-<br/>
-<br/>
-<h5>About</h5>
+
+
+<h3>About</h3>
 <p>This is a example nodeJs REST api. This rest api contains the following routes</p>
 <ul>
   <li><strong> / </strong><span>Is the only route avaible to interact with so far. </span></li>
@@ -15,7 +15,7 @@
   <li><strong>DATABASE: </strong><span>MYSQL as the Database. </span></li>
   <li><strong>OTHERS: </strong><span>EXPRESS as server handler. </span></li>
 </ul>
-<h5>HTTP METHODS</h5>
+<h3>HTTP METHODS</h3>
 
 <ul>
   <li><strong>GET</strong><span>Get the all employes or 1 employe with id </span></li>
